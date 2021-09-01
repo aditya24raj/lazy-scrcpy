@@ -2,7 +2,7 @@
 Launches scrcpy with saved arguments
 
 # Installation
-copy zconfig.json, zlazy_scrcpy.py and zsave_arguments.py to scrcpy folder
+get zlazy_scrcpy.7z from release page and extract to scrcpy folder
 
 # Usage
 1. double-click zlazy_scrcpy.py to launch scrcpy
