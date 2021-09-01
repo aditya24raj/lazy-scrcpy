@@ -1,5 +1,5 @@
 # lazy-scrcpy
-Launches scrcpy with saved device-specific arguments
+Launches scrcpy with previosuly saved arguments
 
 # Installation
 copy zconfig.json and zlazy_scrcpy.py to scrcpy folder
