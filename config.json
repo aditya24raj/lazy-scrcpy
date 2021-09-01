@@ -1,0 +1,6 @@
+{
+  "your_android_id": "scrcpy_argument1, scrcpy_argument2, escape quotes using forward slash ex. \"inside_quotes\" ",
+
+  "default": "--stay-awake --turn-screen-off",
+  
+}
