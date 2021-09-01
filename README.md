@@ -1,5 +1,5 @@
 # lazy-scrcpy
-Launches scrcpy with previosuly saved arguments
+Launches scrcpy with saved arguments
 
 # Installation
 copy zconfig.json and zlazy_scrcpy.py to scrcpy folder
